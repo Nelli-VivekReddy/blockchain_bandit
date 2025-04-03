@@ -45,15 +45,3 @@ Blockchain Bandit is a security research project focused on identifying vulnerab
 - eth-hash[pycryptodome]
 - Blockchain API access (Infura, Alchemy, or similar)
 
-## Disclaimer
-This project is for educational and research purposes only. The authors are not responsible for any misuse of the information provided.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contributors
-- Your Name ([GitHub Profile](https://github.com/yourusername))
-
-## Acknowledgments
-- Inspired by blockchain security research.
-- Special thanks to open-source security communities.
